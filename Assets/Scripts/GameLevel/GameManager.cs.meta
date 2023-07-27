@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 59c63ffb5e0a82043b5e339202d5572f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - karePrefab: {instanceID: 0}
+  - karelerPanel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
